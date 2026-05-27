@@ -1,0 +1,28 @@
+[
+  {
+    "id": "seed-1",
+    "fullName": "Ram Prakash P",
+    "phone": "6379557738",
+    "type": "Home",
+    "house": "178Z/2E",
+    "area": "PTR Nagar 2nd Street ,Thirupparakundram",
+    "landmark": "Near Pillayar Kovil",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "pincode": "625005",
+    "isDefault": true
+  },
+  {
+    "id": "1779778987381",
+    "fullName": "Nirmala Devi ",
+    "phone": "9750646177",
+    "type": "Home",
+    "house": "5/426",
+    "area": "Bajanai Kovil street , Medavakkam",
+    "landmark": "near Ponniyamman kovil",
+    "city": "Chennai",
+    "state": "Tamilnadu ",
+    "pincode": "600100",
+    "isDefault": false
+  }
+]
