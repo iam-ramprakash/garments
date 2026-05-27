@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pay-visa",
+    "type": "card",
+    "brand": "visa",
+    "last4": "4242",
+    "expiry": "12/26",
+    "name": "Demo User",
+    "isDefault": true
+  },
+  {
+    "id": "pay-mc",
+    "type": "card",
+    "brand": "mastercard",
+    "last4": "8888",
+    "expiry": "08/25",
+    "name": "Demo User",
+    "isDefault": false
+  },
+  {
+    "id": "pay-upi",
+    "type": "upi",
+    "brand": "upi",
+    "upiId": "demo@paytm",
+    "name": "Demo User",
+    "isDefault": false
+  }
+]
