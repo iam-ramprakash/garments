@@ -24,5 +24,18 @@
     "state": "Tamilnadu ",
     "pincode": "600100",
     "isDefault": false
+  },
+  {
+    "id": "1779881958683",
+    "fullName": "Malesh",
+    "phone": "9003986752",
+    "type": "Home",
+    "house": "152/85",
+    "area": "Viswa nagar 2ns street",
+    "landmark": "near temple",
+    "city": "Madurai",
+    "state": "Tamilnadu",
+    "pincode": "625005",
+    "isDefault": false
   }
 ]
